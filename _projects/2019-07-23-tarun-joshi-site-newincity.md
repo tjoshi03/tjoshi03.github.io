@@ -1,4 +1,4 @@
-layout: project
+layout: projects
 title: "Tarun joshi"
 date: 2019-07-23
 ---
